@@ -26,17 +26,17 @@ Hello, I'm Sebastian Vasquez!
 <!-- TEXT ABOUT ME-->
 <pre>
 <img  src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="img" width="25%" align='right'/>
-<div font-size="18px">
-"I transform lines of code into solutions that scale, protect and innovate:
-where logic meets creativity to build the digital future. 🔐💻✨"
-	
-📚 I have a systems technique from the Greater Polytechnic
-📝 I have a great interest in Engineering, Software Design and cybersecurity
-🛠️ I am currently a Systems Engineering student at EAFIT University
-🌱 Learn about efficient designs for scalable systems
-🌟 Primary language: Python 😁
-🚩 Interested in the development of web pages and databases
-😃 I hope to collaborate on interesting projects.
+<div font-size="28px">
+	"I transform lines of code into solutions that scale, protect and innovate:
+	where logic meets creativity to build the digital future. 🔐💻✨"
+		
+	📚 I have a systems technique from the Greater Polytechnic
+	📝 I have a great interest in Engineering, Software Design and cybersecurity
+	🛠️ I am currently a Systems Engineering student at EAFIT University
+	🌱 Learn about efficient designs for scalable systems
+	🌟 Primary language: Python 😁
+	🚩 Interested in the development of web pages and databases
+	😃 I hope to collaborate on interesting projects.
 </div>
 <!--  -->
 </pre>
