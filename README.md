@@ -25,14 +25,18 @@ Hello, I'm Sebastian Vasquez!
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!-- TEXT ABOUT ME-->
 <pre>
-💻 I am mainly a Backend Developer
-📚 I have a Bachelors in Computer Science from the University of Dar Es Salaam
-📝 I have a strong interest in Software Engineering and Design
-🛠️ Currently working on a fintech solution with @PesaLock
-🌱 Learning about efficient designs for scalable systems
-🌟 Main language: Java 😁
-🚩 Interested in Server Side Application development
-😃 I look forward to collaborate on impactful projects
+<img  src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="img" width="25%" align='right'/>	
+"I transform lines of code into solutions that scale, protect and innovate:
+where logic meets creativity to build the digital future. 🔐💻✨"
+	
+📚 I have a systems technique from the Greater Polytechnic
+📝 I have a great interest in Engineering, Software Design and cybersecurity
+🛠️ I am currently a Systems Engineering student at EAFIT University
+🌱 Learn about efficient designs for scalable systems
+🌟 Primary language: Python 😁
+🚩 Interested in the development of web pages and databases
+😃 I hope to collaborate on interesting projects.
+<!--  -->
 </pre>
 <hr>
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -51,26 +55,16 @@ Hello, I'm Sebastian Vasquez!
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!-- APARTADO DE LOS CANALES PARA CONTACTARME -->
 <br/>
-<h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">  </h2>
+<h2 align="center" >Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="90px" height="auto" style="margin-right: 10px;"></h2>
 
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/svasquezs1">
+	<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/sebas_11m?igsh=MXZreDU5dGtudGhmNg%3D%3D&utm_source=qr">
+	<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://www.icloud.com/00-feston-grumete@icloud.com">
+	<img src="https://img.icons8.com/doodle/40/000000/icloud.png"></a>
       </div>
 </p>
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
