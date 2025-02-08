@@ -25,7 +25,8 @@ Hello, I'm Sebastian Vasquez!
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!-- TEXT ABOUT ME-->
 <pre>
-<img  src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="img" width="25%" align='right'/>	
+<img  src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="img" width="25%" align='right'/>
+<div font-size="18px">
 "I transform lines of code into solutions that scale, protect and innovate:
 where logic meets creativity to build the digital future. 🔐💻✨"
 	
@@ -36,6 +37,7 @@ where logic meets creativity to build the digital future. 🔐💻✨"
 🌟 Primary language: Python 😁
 🚩 Interested in the development of web pages and databases
 😃 I hope to collaborate on interesting projects.
+</div>
 <!--  -->
 </pre>
 <hr>
@@ -73,6 +75,7 @@ where logic meets creativity to build the digital future. 🔐💻✨"
 
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
+<!--
 <div align="center">
 <h2 align="center" >Visitors Count</h2>  
 <pre>
@@ -80,6 +83,7 @@ where logic meets creativity to build the digital future. 🔐💻✨"
 </pre>
 </div>
 <hr>
+-->
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 
