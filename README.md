@@ -25,7 +25,7 @@ Hello, I'm Sebastian Vasquez!
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!-- TEXT ABOUT ME-->
 <pre>
-<img  src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="img" width="25%" align='right'/>
+<!--<img  src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="img" width="25%" align='right'/>-->
 "I transform lines of code into solutions that scale, protect and innovate:
 where logic meets creativity to build the digital future. 🔐💻✨"
 		
